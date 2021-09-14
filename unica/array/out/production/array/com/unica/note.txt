@@ -1,0 +1,9 @@
+Khai báo mảng có 2 cách
+int [] c = {1,2,3};
+int[] c = new int[5];
+
+Duyệt mảng
+id.1295: Find numbers with even number of digits
+Thêm phần tử vào mảng
+
+Xoá phần tử trong mảng
